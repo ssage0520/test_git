@@ -3,6 +3,10 @@ aaaaaah
 
 This is Seb's first edit
 aloha
+<<<<<<< HEAD
 
 
 Seb edit 2
+=======
+asdf
+>>>>>>> 21d575a6a8c111e868921e8781b6f624605fed62
